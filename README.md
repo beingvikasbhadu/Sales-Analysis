@@ -33,3 +33,15 @@ To answer these questions we walk through many different pandas & matplotlib met
 - Using groupby to perform aggregate analysis
 - Plotting bar charts and lines graphs to visualize our results
 - Labeling our graphs
+
+# Output:
+<hr>
+<img src="https://user-images.githubusercontent.com/98146902/179342564-2a679829-e4c5-4b9c-bce2-d12e44de8146.png">
+<hr>
+<img src="https://user-images.githubusercontent.com/98146902/179342604-d380a773-ff30-423f-ad7a-390f78de7ca2.png">
+<hr>
+<img src="https://user-images.githubusercontent.com/98146902/179342618-e1bac2cc-7ff7-472f-992a-503b71bfc018.png">
+<hr>
+<img src="https://user-images.githubusercontent.com/98146902/179342634-e57a6992-2fec-4235-9626-77ec08ab6c90.png">
+<hr>
+<img src="https://user-images.githubusercontent.com/98146902/179342645-4f188837-b4f9-4717-b99c-43d34d0bc44b.png">
